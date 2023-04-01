@@ -25,5 +25,5 @@ The notes for myself from me
 
 # Configuration File
 * Wikipedia says : In computing, configuration files (or config files) are files used to configure the parameters and initial settings for some computer programs.
-*  They are used for user applications, server processes, and operating system settings.
+* They are used for user applications, server processes, and operating system settings.
 * 
