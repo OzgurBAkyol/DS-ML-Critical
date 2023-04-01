@@ -1,6 +1,14 @@
 # DS-ML-Critical
 The notes for myself from me
 
+
+# pandas QCUT 
+* Imagine you have a df and a score column in there , and you want to put the scres in their interquantile ranges
+* If you use 'cut', this will give you the equal shape for scores.
+* But most of your scores is gathering in one area of those, what do you do ?
+* For machine learning we want those quartile ranges balanced, so you can use qcut and get the besr results.
+
+
 # Data Transformation
 * Why Transformation of features required ?
 * First of all, there is no meaning in making a machine learning model without transformation.
