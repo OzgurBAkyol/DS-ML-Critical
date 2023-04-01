@@ -7,6 +7,7 @@ The notes for myself from me
 * If you use 'cut', this will give you the equal shape for scores.
 * But most of your scores is gathering in one area of those, what do you do ?
 * For machine learning we want those quartile ranges balanced, so you can use qcut and get the besr results.
+* You can use these with the encoding types and create some new fresh columns.
 
 
 # Data Transformation
