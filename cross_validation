@@ -1,0 +1,3 @@
+# cross validation and validation set
+* The crucial thing in our projects, even more than the model.
+* The base idea is the validate our model as we train it.
