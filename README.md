@@ -35,4 +35,8 @@ The notes for myself from me
 # Configuration File
 * Wikipedia says : In computing, configuration files (or config files) are files used to configure the parameters and initial settings for some computer programs.
 * They are used for user applications, server processes, and operating system settings.
+
+
+# cross validation and validation set
+* The crucial thing in our projects, even more than the model.
 * 
